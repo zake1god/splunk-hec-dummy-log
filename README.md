@@ -100,13 +100,6 @@ curl -k https://10.20.30.40:8088/services/collector/event \
 
 ---
 
-## 📬 Kontribusi & Kontak
-
-Ingin menambahkan jenis log lain (DNS, Proxy, dll)? Pull request terbuka!  
-Untuk diskusi atau kolaborasi, silakan hubungi via GitHub atau LinkedIn saya.
-
----
-
 ## 👨‍💻 Created by
 
 Zaki Zarkasih – Cyber Security Engineer
