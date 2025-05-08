@@ -19,13 +19,15 @@ Selamat datang di repo ini! Di sini kamu akan menemukan koleksi script Python un
 
 ```
 .
-├── firewall_logs.json             # Output sample log Firewall
-├── generator_firewall.py          # Script Python untuk generate log Firewall
-├── malware_logs.json              # Output sample log Malware
-├── generator_malware.py           # Script Python untuk generate log Malware
-├── EDR_logs.json                  # Output sample log EDR
-├── generator_EDR.py               # Script Python untuk generate log EDR
-├── README.md                      # File ini
+├── logs/
+│   ├── firewall_logs.json
+│   ├── malware_logs.json
+│   └── edr_logs.json
+├── scripts/
+│   ├── generator_firewall.py
+│   ├── generator_malware.py
+│   └── generator_edr.py
+├── README.md
 ```
 
 ---
